@@ -14,8 +14,8 @@
             <!-- ============================ -->
             <!-- Diagnoses - Emergency -->
             <!-- ============================ -->
-            <GameDBLocalizedString>      <LocID>DIA_PTI</LocID>                         <Text>Pork tapeworm</Text>	</GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_PTI_DESCRIPTION</LocID>             <Text>Pork tapeworms (T. solium) are parasitic flatworms living in the digestive system of humans. Pigs act as intermediate hosts when they consume fodder or water contaminated with human feces. Eating undercooked pork can cause infection.</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PTI</LocID>                         <Text>Fläskbandmask</Text>	</GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_PTI_DESCRIPTION</LocID>             <Text>Fläskbandmask T. solium) är en parasitisk bandmask som lever i den mänskliga matsmältningsystemet. Grisar agerar som en mellanvärd när de konsumerar föda eller vatten som kontaminerats av mänsklig avföring. Förtäring av dåligt tillagat fläskkött kan orsaka infektionen.</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_BTI</LocID>                         <Text>Beef tapeworm</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_BTI_DESCRIPTION</LocID>             <Text>Beef tapeworms (T. saginata) are parasitic flatworms living in the digestive system of humans. Cattle act as intermediate hosts when they consume fodder or water contaminated with human feces. Eating undercooked beef can cause infection.</Text>	</GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_CKX</LocID>                         <Text>Chickenpox</Text>  </GameDBLocalizedString>

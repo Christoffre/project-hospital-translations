@@ -1,7 +1,7 @@
 <Database>
     <GameDBStringTable ID="LOC_SWE_PATCH_1_1_24">
 
-        <LanguageCode>sv</LanguageCode>
+        <LanguageCode>swe</LanguageCode>
         <LanguageNameLocalized>Svenska (PH, Doctor Mode, Hospital Services)</LanguageNameLocalized>
 
         <Contributors>
